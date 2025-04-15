@@ -1,0 +1,6 @@
+2,Dettol_soap,45.0,27
+3,Hand_Wash,85.0,10
+4,Detergent,50.0,15
+5,Bluetooth_Module,300.0,9
+6,T-Shirt,450.0,5
+7,Phone,3000.0,5
