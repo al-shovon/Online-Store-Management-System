@@ -1,8 +1,3 @@
-Name: shovon | Address: hall_1 | Phone: 0177 | Transaction ID: 34543
-Ordered Products:
-1          abc                  50.00      3          150.00    
-Grand Total: 150.00
------------------------------------------------------
 
 Name: asif | Address: Yksg_1 | Phone: 0173635 | Transaction ID: fdytfd23
 Ordered Products:
